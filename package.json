@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Java script backend with mongoose",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
@@ -15,6 +16,7 @@
   "author": "Ayush Patel",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
   }
 }
