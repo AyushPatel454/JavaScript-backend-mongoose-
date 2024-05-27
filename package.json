@@ -1,0 +1,20 @@
+{
+  "name": "javascript-backend",
+  "version": "1.0.0",
+  "description": "Java script backend with mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "mongoose",
+    "mongodb"
+  ],
+  "author": "Ayush Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
