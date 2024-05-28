@@ -3,13 +3,13 @@
 This repository contains Mongoose models for an e-commerce website. These models include `User`, `Category`, `Order`, and `Product`, which define the schema for each entity in the application.
 
 ## Table of Contents
-- [Introduction](##introduction)
-- [Installation](##installation)
-- [Schemas](##schemas)
-  - [User Schema](###user-schema)
-  - [Category Schema](###category-schema)
-  - [Order Schema](###order-schema)
-  - [Product Schema](###product-schema)
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Schemas](#schemas)
+  - [User Schema](#user-schema)
+  - [Category Schema](#category-schema)
+  - [Order Schema](#order-schema)
+  - [Product Schema](#product-schema)
 
 ## Introduction
 
