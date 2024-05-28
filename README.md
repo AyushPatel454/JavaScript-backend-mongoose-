@@ -1,4 +1,4 @@
-# E-commerce Website Models with Mongoose
+# E-commerce Website Models (Schema) with Mongoose
 
 This repository contains Mongoose models for an e-commerce website. These models include `User`, `Category`, `Order`, and `Product`, which define the schema for each entity in the application.
 
